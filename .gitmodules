@@ -1,0 +1,18 @@
+[submodule "PandasExample"]
+	path = PandasExample
+	url = https://github.com/rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example.git
+[submodule "JupyterNotebooksTutorial"]
+	path = JupyterNotebooksTutorial
+	url = https://github.com/rmotr-curriculum/ds-content-interactive-jupyterlab-tutorial.git
+[submodule "NumpyTutorial"]
+	path = NumpyTutorial
+	url = https://github.com/rmotr-curriculum/freecodecamp-intro-to-numpy.git
+[submodule "PandasTutorial"]
+	path = PandasTutorial
+	url = https://github.com/rmotr-curriculum/freecodecamp-intro-to-pandas.git
+[submodule "DataCleaning"]
+	path = DataCleaning
+	url = https://github.com/rmotr-curriculum/data-cleaning-rmotr-freecodecamp.git
+[submodule "ReadingDataWithPythonAndPandas"]
+	path = ReadingDataWithPythonAndPandas
+	url = https://github.com/rmotr-curriculum/RDP-Reading-Data-with-Python-and-Pandas.git
